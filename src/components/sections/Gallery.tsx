@@ -6,7 +6,6 @@ import { ChapterEntry, ApertureReveal } from '@/components/camera-effects';
 
 export function Gallery() {
   const [activeStyle, setActiveStyle] = useState<WeddingStyle | 'All'>('All');
-  const [activeWedding, setActiveWedding] = useState<typeof WEDDINGS[0] | null>(null);
   const [lightboxIndex, setLightboxIndex] = useState<number | null>(null);
 
   const filteredWeddings = useMemo(() => {
