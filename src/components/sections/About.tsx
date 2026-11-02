@@ -62,7 +62,7 @@ export function About() {
                   I wait for them. The look on a father's face when he first
                   sees his daughter. The laugh that escapes between the vows.
                   The hand that reaches out, just for a second, when nobody's
-                  watching. Those are the frames that matter.
+                  watching. Those are the frames that matter MOST
                 </p>
                 <p>
                   I shoot on film and digital, but always with the same philosophy:
