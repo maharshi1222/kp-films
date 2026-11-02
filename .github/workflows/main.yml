@@ -38,6 +38,12 @@ jobs:
       - name: Run tests
         run: npm test
 
+      # Intentional failure used to verify that CI reports errors correctly.
+      - name: Intentional CI failure
+        run: |
+          echo "Intentional failure: testing the CI/CD error reporting flow."
+          exit 1
+
       - name: Build application
         run: npm run build
 
