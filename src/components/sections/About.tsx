@@ -68,7 +68,7 @@ export function About() {
                   I shoot on film and digital, but always with the same philosophy:
                   let the day unfold, let the light do its work, and be ready when
                   the real thing happens. No stiff poses. No forced smiles. Just
-                  you, as you actually are.
+                  you, as you actually are...
                 </p>
               </div>
             </ChapterEntry>
