@@ -27,7 +27,7 @@ export function FeaturedWeddings() {
             </ChapterEntry>
             <ChapterEntry delay={0.1}>
               <h2 className="mt-3 font-serif text-4xl text-ink-50 md:text-6xl">
-                Love stories, <em className="text-amber">told frame by frame</em>
+                 stories, <em className="text-amber">told frame by frame</em>
               </h2>
             </ChapterEntry>
           </div>
